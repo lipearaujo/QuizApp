@@ -188,7 +188,6 @@ const questions = [
         answers: [
           "São títulos de renda fixa que oferecem aos investidores retornos mais altos que a média do mercado.",
           "São títulos que apresentam menor risco de crédito",
-          "Um framework JavaScript",
           "são títulos de renda variável que oferecem aos investidores retornos mais baixos que a média do mercado.",
         ],
         correctAnswer:
@@ -209,7 +208,6 @@ const questions = [
         feedbackText:
           "Falso, O Fundo Garantidor de Créditos protege o patrimônio de clientes que investem em até R$250 mil caso o banco ou instituição financeira quebre.",
       },
-      
     ],
   },
 ];
